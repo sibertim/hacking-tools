@@ -560,20 +560,6 @@ Bu repository, **sibertim.com** için hazırlanmış kapsamlı siber güvenlik e
 - EXPLOIT TOOLS NEDİR.docx
 
 ---
-
-## Diğer Kaynaklar ve Belgeler
-
-- pentesting-steps-tools.pdf (www.linkedin.com/in/yusabas)
-- Red Team.pdf
-
----
-## Katkıda Bulunma
-
-Katkıda bulunmak isteyenler, yeni içerik ekleyebilir veya mevcut içerikleri güncelleyebilir. Lütfen katkı yapmadan önce bir issue açınız.
-
-Tüm içerikler eğitim amaçlıdır. İzinsiz çoğaltılamaz veya ticari amaçla kullanılamaz.
-
----
 <footer align="center">
   <p>© 2025 Sibertim.com | <a href="https://sibertim.com" target="_blank">sibertim.com</a></p>
 </footer>
